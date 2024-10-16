@@ -67,7 +67,6 @@ The CNN model consists of two 3D convolutional layers followed by max-pooling, a
 - FC Layer 1: Fully connected layer with 128 units.
 - FC Layer 2: Fully connected layer with 2 output units (health or patient).
 
-<img src="architechture.png" width="500px"/>
 
 ### Data Preprocessing
 The MRI images are read in .nii.gz format using nibabel, converted to NumPy arrays, and normalized. The MRI volumes are expanded along the channel dimension to make them compatible with 3D convolutions in PyTorch.
