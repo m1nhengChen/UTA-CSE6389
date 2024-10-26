@@ -71,7 +71,7 @@ The CNN model consists of two 3D convolutional layers followed by max-pooling, a
 ### Data Preprocessing
 The MRI images are read in .nii.gz format using nibabel, converted to NumPy arrays, and normalized. The MRI volumes are expanded along the channel dimension to make them compatible with 3D convolutions in PyTorch.
 
-Seed Reproducibility
+### Seed Reproducibility
 For reproducibility, the script sets seeds for the following:
 
 
