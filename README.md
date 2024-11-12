@@ -1,6 +1,6 @@
 # UTA-CSE6389
 
-Reference code for CSE-6389-001-ADV MM, GRAPHICS, IMAGE PROC project
+Reference code for UTA CSE-6389-001-ADV MM, GRAPHICS, IMAGE PROC project
 ### Project 1
 This project involves developing a Convolutional Neural Network (CNN) for binary classification using provided MRI data to distinguish between Alzheimer's Disease (AD) patients and healthy people (CN). A sample code for loading the data and a basic CNN model is provided. Your task is to design and optimize a CNN model to achieve the best possible performance. You will submit a comprehensive report detailing the model architecture, performance metrics, and conclusions, along with the your code implementation.
 ### Project 2
